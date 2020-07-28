@@ -1,0 +1,170 @@
+1
+Saiprasanna Krishna Rayepudi
+saikrishnarayepudi@gmail.com || Contact – 3613553886
+_____________________________________________________________________________________
+PERSONAL PROFILE:
+Software Engineer with over 4.5 years of experience in developing the application for the enterprise wide
+systems. Experienced in helping organizations Design, Develop and Implement mission critical, enterprise
+wide, customer driven systems and business solutions. As a Software Engineer with Humac Inc, my role is
+to design and develop for the enterprise messaging systems and develop full stack web applications for
+the applications teams to access the platform as a service. I’ve also worked on metrics collecting the and
+alerts configurations for the messaging system using the graphana and Dynatrace.
+PROFESSIONAL SUMMARY:
+§ Software Engineer with over 4 years of experience in Research, Developing, Testing, Integrating,
+Implementation for the enterprise wide application.
+§ Worked as a Research analyst for developing the prototype for the cloud based new technologies
+like envoy, Istio and evaluate technical feasibility.
+§ Deployed Kubernetes Clusters on TIMS environments with master/minion architecture and
+configure YAML files to create many services like pods, deployments, auto scaling, load balancers,
+labels, health checks etc.
+§ Responsible for the development of the service layer for the enterprise messaging applications like
+solace and kafka using the java, Spring Frameworks, Hibernate and the NoSQL Databases like
+MongoDB.
+§ Deploying of the application on the epass cloud and JBOSS Server.
+§ Development of the services to automate the tasks, like APIGEE application registeration and Hmac
+token Generation.
+§ Developed the user-interface layer for dynamically changing web applications using HTML/HTML5,
+CSS/CSS3, JavaScript.
+§ Experienced in developing Responsive Web Applications (RWD) using Bootstrap and CSS Media
+Queries.
+§ Developed Single page applications using various JavaScript frameworks like AngularJS,
+Angular2/4/6.
+§ Experience in full life-cycle development using Object Oriented Methodologies/Programming
+(OOP’s).
+§ Experienced in building cloud native micro services using spring boot and spring cloud.
+§ Developed Restful web services for the communication between the UI and the Business layer.
+§ Worked on AngularJS concepts like Dependency Injection, Promises, Services, factory, Scopes,
+Controllers and Custom Directives.
+§ Worked on both No SQL and SQL Databases like MongoDB, SQL and MySQL.
+§ Experience using GIT version control tool.
+§ Certified associate Developer Amazon Web services.
+EDUCATION
+Texas A&M University - Kingsville, Master’s in Computer Science GPA-3.89
+2
+Technical Skills
+PROFESSIONAL EXPIRENCE
+Humac Inc 8/27/2018 – Current Date
+2730 W Agua Fria Fwy #204, Phoenix, AZ 85027
+Project: Kafka.
+Role – Software Engineer
+Develop and Implement the Kafka V2 Services for the Enterprise wide application teams and provide them
+the access to utilize the platform as a service using a web interface to create topics, deploy the topics in
+E1/E2/E3 environments and authorize the consumer groups to consume the messages. Providing them
+the access to delete the topics.
+Responsibilities:
+§ Implemented and analyzed the technical viability for Kafka Services in the V2 Clusters.
+§ Implemented Zookeeper services to monitor the status of the brokers.
+§ Worked as a Migration manager and coordinated with the application teams to move the
+application from the V1 to V2 cluster.
+§ Responsible to updating the firmware, maintaining and analyzing the production issues for the
+application.
+§ Used HTML5, JavaScript, Angular Js for developing the user interface to access the Kafka.
+§ Used Bootstrap and CSS3 media queries to create a responsive website that fit all devices from
+desktop to tablet and mobile phone.
+§ Used AngularJS as framework to create a Single Page Application (SPA) which can bind data to
+specific views and synchronize data with server.
+§ Responsible for design and development of the web pages from mock- ups and creating the
+screens with table-less designs meeting W3C standards.
+§ Involved in writing application level code to interact with APIs, Web Services using JSON, XML and
+jQuery.
+§ Implemented custom validation controls for various forms through AngularJS custom directives
+validation controls.
+§ Developed the Restful web service using spring boot on the backend to create and execute the
+user requests.
+§ Used ORM mapping to process and send the response back to the application.
+Web technologies HTML/HTML5, CSS/CSS3, Typescript, JavaScript, jQuery, AJAX, AngularJS 1.x,
+Angular2/4/6, Node.JS, Bootstrap, SASS, LESS.
+Infrastructure Envoy, Istio, Kubernetes, Dockers, Solace, Kafka, Zookeeper, Spark
+Application Servers Apache Tomcat, JBOSS, Web logic, HTTP Web Server.
+Defect tracking tools JIRA, Quality Centre
+Databases MY SQL, SQL, MongoDB
+Development Tools Net Beans, Eclipse, MS Visual Studio, GitHub, Firebug, IntelliJ IDEA Workflow
+Version Control SVN and Git
+3
+§ Generating command Packages to deploy the changes in QA and production environment.
+§ GIT is being used as a version control in the project.
+§ Timely updates confluence page with functional requirements provided by the analysts and
+managers
+Environment: Kafka, Zookeeper, Java, Spring Boot, Hibernate, MongoDb, HTML5, CSS3, JavaScript,
+AngularJS, AJAX, CSS, GIT.
+Project – Solace
+Role -Software Engineer
+Description- Developed an User interface portal to create topics and Queues based on the integration
+pattern and deploying the changes for QA and production environment.
+Responsibilities:
+§ Responsible for analyzing, gathering requirements, designing, development of the features.
+§ Implemented and Tested the Data recovery exercise for the data protection in case of outage.
+§ Designed Arena Environment for the application team to test the performance before deploying
+to production.
+§ Responsible for maintenance and firmware upgrades of the appliances.
+§ Implemented the AMPQ protocol feature for the solace appliances.
+§ Responsible for providing the technical issues for the app teams and analyzing/support the
+production issues.
+§ Implemented the monitoring for the queues using the stats pump and Grafana for visualization.
+§ Developed an user interface for application teams to configure and utilize the solace environment.
+§ Developed single page applications using Angular 6, Typescript, HTML5, CSS3, Bootstrap and
+utilized CSS for more user attractive UI Screens.
+§ Implemented Angular 6 Services for connectivity between web application and back-end API'S
+using TypeScript.
+§ Built SPA with loading multiple views using route services using Angular 6.
+§ Used Angular 6 for Client-side validations while rendering JSON validation errors in the backend.
+§ Developed RESTful Web Services using JAX-RS API and consumed the Web Services to retrieve data
+from different applications using RESTful protocol.
+§ Implemented Spring Boot framework which includes writing Controller classes for handling
+requests, processing form submissions and performed validations using Commons validator.
+§ Implemented the business layer and persistence layer by using and data description using Spring
+Data.
+§ Involved in creating Mongo DB, collections and documents and developed Mongoose Schema
+object to perform CRUD operations.
+§ Used log4J for application logging and notification tracing mechanisms.
+§ Used Git for Version Control.
+Environment: HTML5, CSS3, JavaScript, jQuery, Angula6, Java 8, Spring Boot, MongoDB, Jasmine, Karma,
+JIRA, Graphana and Git
+Project – Istio
+Role – Software Engineer
+Description- Develop a service mesh architecture to run a distributed microservice architecture.
+Responsibilities4
+§ Responsible for analyzing and developing the prototype for the envoy, Istio and evaluate technical
+feasibility.
+§ Design the system architecture and development for the product on kubernetes, dockers
+§ Deployment of Kubernetes Clusters on TIMS environments with master/minion architecture
+§ Configure YAML files to create many services like pods, deployments.
+§ Implemented features like auto scaling, load balancers, labels, health checks etc
+Tech Mahindra, Hyderabad, India 5/29/2014- 12/19/2016
+Special Economic Zone, Tower - I, Plot No. 22 to, 34, Hitech City Rd,
+Jubilee Enclave, Madhapur, Hyderabad, Telangana 500081, India
+Project: KS VISA
+Role – Software Developer
+Developing the front-end user interface for the customers to fill up the application form and update the
+details.
+Responsibilities:
+§ Responsible for delivering part of a project including design, implementations, testing,
+integration(in-house) and documentation of the project details and architecture adopted to build
+the project.
+§ Design and develop critical features and component using Modularity principles that can replace
+or add any module without affecting the rest of the application.
+§ Research and recommend appropriate technologies and best practices for client-side applications.
+§ Used HTML5, Angular 2, Bootstrap and CSS3 as the main UI/Front-End development technologies.
+§ Involved in developing the Angular Forms, Routes and Services.
+§ Developed the application for responsive to different screen resolutions using Bootstrap and CSS3
+media queries.
+§ Created Typescript reusable components and services to consume REST API's using Componentbased
+architecture provided by Angular2.
+§ Integration of user-facing elements developed by front-end developers with server-side logic.
+§ Maintain and fix bugs, work with sysadmins and senior dev’s to setup automated builds and tests.
+§ Scope projects create estimates and track progress using JIRA and agile project methodologies.
+§ Analysis of the specifications provided by the clients to Sales Platform application and provides
+inputs to the client.
+§ Responsible for implementing the business logic using technologies like Spring Batch, REST Web
+Services, Java/J2EE, JPA, XHTML and My SQL.
+§ Responsible for preparing the Use Case documents as per the specifications provided by the client.
+§ Responsible for unit testing, integration testing, system testing and regression testing.
+§ Responsible for overseeing the Quality procedures related to the project.
+§ Provide support to the existing implemented projects, maintain the services of this project already
+in production and provide solutions to issues that come up in production.
+§ Responsible for coordinating with team and deliver quality product to client.
+§ Involving in code promotions for different environments like UAT/IST/PROD by contacting different
+teams.
+§ Responsible to solve the issues raised by user as well as QA team.
+Environment: Java, J2EE, Spring Framework, Spring MVC, Spring IOC, Dependency Injection, JSP, JPA,
+Hibernate, JAXB, log4j, My SQL, RESTful, Object Relational Mapping (ORM), EJB, Tomcat, AJAX.
